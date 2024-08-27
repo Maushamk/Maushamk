@@ -1,4 +1,4 @@
-[Portfolio:](https://maushamk.github.io/)
+[My Portfolio](https://maushamk.github.io/)
 
 <!--
 **Maushamk/Maushamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
